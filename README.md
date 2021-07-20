@@ -36,7 +36,6 @@ python prepare_hdf5_cutedge.py
 
 ### How to Train:
 - Step 1: set up hyper-parameters and paths to data in config.py
--
 - Step 2: Run training
 
 ```
